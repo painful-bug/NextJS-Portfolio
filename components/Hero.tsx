@@ -18,7 +18,7 @@ function Hero({}: Props) {
     <div className="h-screen flex flex-col mt-50 space-y-8 items-center justify-center overflow-hidden text-center">
       <BackgroundCircles />
       <img
-        src="../static/profile-pic.jpg"
+        src="https://utfs.io/f/239770b9-5226-4d8e-a684-ce473dfe21bb-2x3qsm.jpg"
         className=" relative rounded-full h-32 w-32 mx-auto"
       />
       <div className="z-0">

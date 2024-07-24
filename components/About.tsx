@@ -31,7 +31,7 @@ const About = (props: Props) => {
       viewport={{
         once: true
       }}
-      src="../static/profile-pic.jpg"
+      src="https://utfs.io/f/239770b9-5226-4d8e-a684-ce473dfe21bb-2x3qsm.jpg"
       className="-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-64 xl:w-[500px] xl:h-[500px]"
      />
 

@@ -15,7 +15,7 @@ export default function Home() {
 
       "descr" : "It is built using flutter, with a responsive design, which is inspired from japanese design philosophy. The backend database of choice is Firebase, which is optimized for Flutter apps.",
 
-      "imgUrl":  "../static/totem.jpg",
+      "imgUrl":  "https://utfs.io/f/422ab671-15b9-4dce-8ccf-12617e1c5f49-1ttgw1.jpg",
       "customStyle": "w-48 md:w-32 md:mt-8"
     },
     {
@@ -23,7 +23,7 @@ export default function Home() {
       "projectUrl" : "https://github.com/painful-bug/Smart-Bengal-Hackathon-Farm-App",
       "intro": "A web app which helps detecting plant disease and also suggests which crop is suitable in a certain environment. ",
       "descr": "When uploaded an image of the diseased leaf/plant, this app detects which disease it has. This app also suggests the most suitable crop to grow in a certain area, given the temperature,humidity, soil pH, rainfall, etc as input. It is made with ReactJS for the frontend, and python fastapi for the backend. It is powered by a custom trained Machine Learning Model which helps in the detection of plant disease and suggestion of the most suitable crop.",
-      "imgUrl":  "../static/AgroGuard.png",
+      "imgUrl":  "https://utfs.io/f/19cc41d4-7967-44ac-acd2-4c52c505c197-hgy5jy.png",
       "customStyle": "w-2/6 md:w-48 md:mt-8"
     }
   ];
